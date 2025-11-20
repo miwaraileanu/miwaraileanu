@@ -40,13 +40,15 @@ and I’m constantly pushing myself to learn more every day.
 - Responsive UI  
 
 ### **Backend**
-- Node.js  
+- Node.js
+- Nest.js 
 - Flask  
 - REST APIs  
 - SQL basics  
 
 ### **Cloud / DevOps**
-- Docker  
+- Docker
+- CI/CD
 - Git & GitHub  
 - Azure (AZ-900 Certified)  
 - Linux (Ubuntu / Kali)  
