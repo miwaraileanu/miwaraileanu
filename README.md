@@ -1,122 +1,92 @@
+<!-- SUBTLE BACKGROUND IMAGE -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Martian+Mono&size=22&duration=3500&pause=700&color=F7E90A&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Mihail+Raileanu;Front-End+Developer+%7C+Networking+%26+Security+Student;JavaScript+%7C+Python+%7C+Next.js+%7C+Tailwind;Growing+from+Chef+to+IT+Professional+%F0%9F%9A%80" />
+  <img src="/mnt/data/A_digital_illustration_represents_Mihail_Raileanu_.svg" width="80%" style="border-radius: 12px;">
 </p>
 
+# 👋 Hi, I'm Mihail Raileanu
+
+I’m a **Junior Front-End Developer** and **Networking & Systems Security student** with a unique background —  
+after 15 years working as a **Chef**, including leadership roles in high-pressure kitchens,  
+I transitioned into the IT world to build modern, clean and user-focused digital experiences.
+
+I enjoy creating **web applications**, studying **networking**, understanding **cybersecurity**,  
+and continuously improving my knowledge across software, cloud, and automation.
+
 ---
 
-# 👋 About Me
+## 🚀 What I Do
 
-I’m **Mihail Raileanu**, a passionate **Jr. Front-End Developer** and **Networking & Systems Security student**, transitioning from a successful **15-year career in hospitality** into modern web development and IT.
-
-My unique background in **high-pressure leadership**, **problem-solving**, and **team management** as a Head Chef now supports my journey in tech — where I focus on building clean, efficient, user-focused solutions with modern frameworks.
-
-💡 *Currently improving my skills in front-end development, cloud, cybersecurity, and full-stack engineering.*
-
----
-
-# 🚀 Tech Stack
-
-### **Programming Languages**
-- JavaScript, TypeScript  
-- Python  
-- HTML5, CSS3  
-
-### **Frontend**
-- React  
-- Next.js  
+### **Front-End Development**
+- JavaScript • TypeScript  
+- React • Next.js  
 - Tailwind CSS  
-- Responsive Design (Flexbox / Grid)
+- Responsive & clean UI  
 
-### **Backend & Databases**
+### **Back-End & APIs**
 - Node.js  
 - Flask  
 - SQL  
-- RESTful APIs  
+- RESTful API design  
 
 ### **Cloud & DevOps**
-- Microsoft Azure (AZ-900 Certified)  
+- Microsoft Azure (AZ-900 certified)  
 - Docker  
-- Git & GitHub  
+- Git & GitHub CI basics  
 
-### **Tools**
-- VS Code  
+### **Networking & Security**
+- Networking fundamentals (OSI, TCP/IP)  
 - Wireshark  
 - Cisco Packet Tracer  
-- Postman  
+- Cybersecurity fundamentals  
 
 ---
 
-# 🧩 Experience
+## 🧩 Experience
 
-### **💻 Freelance Developer (2024 – Present)**
-Built three fully functional, real-world websites using **Next.js**, including:
+### **Freelance Web Developer (2024–Present)**
+Developed three production-ready websites using **Next.js**:
 - Electrician company website  
-- DJ equipment / services site  
-- Hairdresser portfolio site  
+- DJ equipment & services  
+- Hairdresser portfolio  
 
-Delivered **modern, fast, responsive** web apps with real clients and requirements.
+### **Executive Head Chef — Cassidy’s Hotel (2023–Present)**
+- Managing operations and quality  
+- Building efficient systems  
+- Leading teams of 20–50+ people  
 
----
-
-### **👨‍🍳 Executive Head Chef – Cassidy’s Hotel (2023 – Present)**
-- Led kitchen operations in a high-volume hotel  
-- Built systems for efficiency, quality control, scheduling  
-- Strengthened leadership, time management, budgeting, and communication  
-- Experience leading **teams of 20–50+ people**
-
----
-
-### **🥇 Chef (Commis → Head Chef) – Ireland & Moldova (2009 – 2023)**
-- 15 years of industry experience  
-- Worked in Michelin-level environments  
-- Managed high-stress operations and large commercial kitchens  
+### **Chef (Commis → Head Chef) — Ireland & Moldova (2009–2023)**
+- 15 years of professional kitchen experience  
+- Michelin-level environments  
+- Strong leadership & time management  
 
 ---
 
-# 🎓 Education
-
-### **Diploma in Networking & Systems Security (2025 – Present)**  
-*CCT College Dublin*
-
-### **Diploma in Event Management (2017 – 2018)**  
-*Ballsbridge College*
+## 🎓 Education
+- **Diploma in Networking & Systems Security** — CCT College Dublin (2025–Present)  
+- **Diploma in Event Management** — Ballsbridge College  
 
 ---
 
-# 📜 Certifications
-- **CompTIA Security+**  
-- **AZ-900 Microsoft Azure Fundamentals**  
-- **100 Days of Code – Front-End Bootcamp**  
-- **Cybersecurity Analyst Course**  
-- **Complete SQL Bootcamp**  
+## 📜 Certifications
+- AZ-900: Microsoft Azure Fundamentals  
+- 100 Days of Code — Front-End Bootcamp  
+- Cybersecurity Analyst Course  
+- SQL Bootcamp: Zero to Hero  
 
 ---
 
-# 🌍 Languages
-- **English** — Fluent  
-- **Russian** — Fluent  
-- **Romanian** — Basics  
+## 🌍 Languages
+- English — Fluent  
+- Russian — Fluent  
+- Romanian — Basic  
 
 ---
 
-# 🖥 Projects
-
-### ⚡ **AC&DL Electric**  
-Modern electrician company website with strong UI, responsive layout, and clean components.
-
-### 🎧 **DJ Company Site**  
-Dynamic visuals, service listings, and booking workflow.
-
-### 💇 **Hairdresser Portfolio**  
-Minimalistic and fast Next.js portfolio with optimized images and clean UX.
-
----
-
-# 📬 Contact
-
-📍 Ireland  
+## 📬 Contact
 📧 **miwaraileanu@gmail.com**  
 🌐 **www.iarahim.ie**  
+📱 **+353 89 244 7174**  
 
 ---
 
+### ⭐ Thanks for visiting my profile!
