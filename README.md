@@ -84,6 +84,7 @@ Delivered **modern, fast, responsive** web apps with real clients and requiremen
 ---
 
 # 📜 Certifications
+- **CompTIA Security+**  
 - **AZ-900 Microsoft Azure Fundamentals**  
 - **100 Days of Code – Front-End Bootcamp**  
 - **Cybersecurity Analyst Course**  
@@ -116,7 +117,6 @@ Minimalistic and fast Next.js portfolio with optimized images and clean UX.
 📍 Ireland  
 📧 **miwaraileanu@gmail.com**  
 🌐 **www.iarahim.ie**  
-📱 **+353 89 244 7174**
 
 ---
 
