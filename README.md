@@ -120,5 +120,3 @@ Minimalistic and fast Next.js portfolio with optimized images and clean UX.
 
 ---
 
-# 🛰 Bonus: Martian Mono Preview
-
