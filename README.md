@@ -24,7 +24,7 @@ and I’m constantly pushing myself to learn more every day.
 
 ---
 
-# ## 🧰 Tech Stack
+# 🧰 Tech Stack
 
 | Category | Skills |
 |---------|--------|
