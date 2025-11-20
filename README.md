@@ -1,92 +1,99 @@
-<!-- SUBTLE BACKGROUND IMAGE -->
+<!-- HEADER IMAGE -->
 <p align="center">
-  <img src="/mnt/data/A_digital_illustration_represents_Mihail_Raileanu_.svg" width="80%" style="border-radius: 12px;">
+  <img src="/mnt/data/A_digital_illustration_represents_Mihail_Raileanu_.png" width="75%" style="border-radius: 12px;">
 </p>
 
-# 👋 Hi, I'm Mihail Raileanu
-
-I’m a **Junior Front-End Developer** and **Networking & Systems Security student** with a unique background —  
-after 15 years working as a **Chef**, including leadership roles in high-pressure kitchens,  
-I transitioned into the IT world to build modern, clean and user-focused digital experiences.
-
-I enjoy creating **web applications**, studying **networking**, understanding **cybersecurity**,  
-and continuously improving my knowledge across software, cloud, and automation.
+<!-- MARTIAN MONO TITLE -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Martian+Mono&duration=3500&pause=600&color=F7E90A&center=true&vCenter=true&width=800&lines=Mihail+Raileanu;Developer+%7C+Networking+%26+Security;Next.js+%7C+TypeScript+%7C+Docker" />
+</p>
 
 ---
 
-## 🚀 What I Do
+# 👋 About Me
 
-### **Front-End Development**
-- JavaScript • TypeScript  
-- React • Next.js  
+Hey, I’m **Mihail**, but most people call me **Misha**.  
+I switched from running kitchens to running code — and now I’m fully focused on **web development**, **networking**, and **cybersecurity**.
+
+I enjoy building clean, modern interfaces with **Next.js + Tailwind**,  
+digging into backend logic with **Node.js, SQL, Python**,  
+and experimenting with infrastructure in my home lab using **Docker, Proxmox, Linux**, and network tools.
+
+I love understanding how things work — from UI components to firewalls —  
+and I’m constantly pushing myself to learn more every day.
+
+---
+
+# 💻 Tech Stack
+
+### **Languages**
+- JavaScript  
+- TypeScript  
+- Python  
+- SQL  
+- HTML5 / CSS3  
+
+### **Frontend**
+- Next.js  
+- React  
 - Tailwind CSS  
-- Responsive & clean UI  
+- Responsive UI  
 
-### **Back-End & APIs**
+### **Backend**
 - Node.js  
 - Flask  
-- SQL  
-- RESTful API design  
+- REST APIs  
+- SQL basics  
 
-### **Cloud & DevOps**
-- Microsoft Azure (AZ-900 certified)  
+### **Cloud / DevOps**
 - Docker  
-- Git & GitHub CI basics  
+- Git & GitHub  
+- Azure (AZ-900 Certified)  
+- Linux (Ubuntu / Kali)  
+- Proxmox VE  
 
-### **Networking & Security**
-- Networking fundamentals (OSI, TCP/IP)  
+### **Networking / Security**
+- OSI & TCP/IP  
 - Wireshark  
 - Cisco Packet Tracer  
 - Cybersecurity fundamentals  
 
 ---
 
-## 🧩 Experience
+# 🧩 Projects
 
-### **Freelance Web Developer (2024–Present)**
-Developed three production-ready websites using **Next.js**:
-- Electrician company website  
-- DJ equipment & services  
-- Hairdresser portfolio  
+### ⚡ **AC&DL Electric**
+Modern electrician website built with **Next.js + Tailwind**  
+Fast, clean, mobile-first UI.
 
-### **Executive Head Chef — Cassidy’s Hotel (2023–Present)**
-- Managing operations and quality  
-- Building efficient systems  
-- Leading teams of 20–50+ people  
+### 🎧 **DJ Services Website**
+A dynamic site for DJ equipment & services with a lightweight design.
 
-### **Chef (Commis → Head Chef) — Ireland & Moldova (2009–2023)**
-- 15 years of professional kitchen experience  
-- Michelin-level environments  
-- Strong leadership & time management  
+### 💇 **Hairdresser Portfolio**
+A smooth and minimalistic portfolio made with Next.js.
 
----
-
-## 🎓 Education
-- **Diploma in Networking & Systems Security** — CCT College Dublin (2025–Present)  
-- **Diploma in Event Management** — Ballsbridge College  
+### 🧪 **Home Lab Projects**
+- Proxmox virtualization  
+- Docker containers & stacks  
+- VPN setups & network routing  
+- Linux administration practice  
 
 ---
 
-## 📜 Certifications
-- AZ-900: Microsoft Azure Fundamentals  
-- 100 Days of Code — Front-End Bootcamp  
-- Cybersecurity Analyst Course  
-- SQL Bootcamp: Zero to Hero  
+# 🖼 Little Visual Touches
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,tailwind,nodejs,python,docker,linux,git,azure" />
+</p>
 
 ---
 
-## 🌍 Languages
-- English — Fluent  
-- Russian — Fluent  
-- Romanian — Basic  
+# 📬 Contact
 
----
-
-## 📬 Contact
 📧 **miwaraileanu@gmail.com**  
 🌐 **www.iarahim.ie**  
-📱 **+353 89 244 7174**  
+📍 Ireland  
 
 ---
 
-### ⭐ Thanks for visiting my profile!
+# ⭐ Thanks for visiting my profile!
