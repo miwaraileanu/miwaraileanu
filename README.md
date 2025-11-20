@@ -1,122 +1,99 @@
+<!-- HEADER IMAGE -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Martian+Mono&size=22&duration=3500&pause=700&color=F7E90A&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Mihail+Raileanu;Front-End+Developer+%7C+Networking+%26+Security+Student;JavaScript+%7C+Python+%7C+Next.js+%7C+Tailwind;Growing+from+Chef+to+IT+Professional+%F0%9F%9A%80" />
+  <img src="/mnt/data/A_digital_illustration_represents_Mihail_Raileanu_.png" width="75%" style="border-radius: 12px;">
+</p>
+
+<!-- MARTIAN MONO TITLE -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Martian+Mono&duration=3500&pause=600&color=F7E90A&center=true&vCenter=true&width=800&lines=Mihail+Raileanu;Developer+%7C+Networking+%26+Security;Next.js+%7C+TypeScript+%7C+Docker" />
 </p>
 
 ---
 
 # 👋 About Me
 
-I’m **Mihail Raileanu**, a passionate **Jr. Front-End Developer** and **Networking & Systems Security student**, transitioning from a successful **15-year career in hospitality** into modern web development and IT.
+Hey, I’m **Mihail**, but most people call me **Misha**.  
+I switched from running kitchens to running code — and now I’m fully focused on **web development**, **networking**, and **cybersecurity**.
 
-My unique background in **high-pressure leadership**, **problem-solving**, and **team management** as a Head Chef now supports my journey in tech — where I focus on building clean, efficient, user-focused solutions with modern frameworks.
+I enjoy building clean, modern interfaces with **Next.js + Tailwind**,  
+digging into backend logic with **Node.js, SQL, Python**,  
+and experimenting with infrastructure in my home lab using **Docker, Proxmox, Linux**, and network tools.
 
-💡 *Currently improving my skills in front-end development, cloud, cybersecurity, and full-stack engineering.*
+I love understanding how things work — from UI components to firewalls —  
+and I’m constantly pushing myself to learn more every day.
 
 ---
 
-# 🚀 Tech Stack
+# 💻 Tech Stack
 
-### **Programming Languages**
-- JavaScript, TypeScript  
+### **Languages**
+- JavaScript  
+- TypeScript  
 - Python  
-- HTML5, CSS3  
+- SQL  
+- HTML5 / CSS3  
 
 ### **Frontend**
-- React  
 - Next.js  
+- React  
 - Tailwind CSS  
-- Responsive Design (Flexbox / Grid)
+- Responsive UI  
 
-### **Backend & Databases**
+### **Backend**
 - Node.js  
 - Flask  
-- SQL  
-- RESTful APIs  
+- REST APIs  
+- SQL basics  
 
-### **Cloud & DevOps**
-- Microsoft Azure (AZ-900 Certified)  
+### **Cloud / DevOps**
 - Docker  
 - Git & GitHub  
+- Azure (AZ-900 Certified)  
+- Linux (Ubuntu / Kali)  
+- Proxmox VE  
 
-### **Tools**
-- VS Code  
+### **Networking / Security**
+- OSI & TCP/IP  
 - Wireshark  
 - Cisco Packet Tracer  
-- Postman  
+- Cybersecurity fundamentals  
 
 ---
 
-# 🧩 Experience
+# 🧩 Projects
 
-### **💻 Freelance Developer (2024 – Present)**
-Built three fully functional, real-world websites using **Next.js**, including:
-- Electrician company website  
-- DJ equipment / services site  
-- Hairdresser portfolio site  
+### ⚡ **AC&DL Electric**
+Modern electrician website built with **Next.js + Tailwind**  
+Fast, clean, mobile-first UI.
 
-Delivered **modern, fast, responsive** web apps with real clients and requirements.
+### 🎧 **DJ Services Website**
+A dynamic site for DJ equipment & services with a lightweight design.
 
----
+### 💇 **Hairdresser Portfolio**
+A smooth and minimalistic portfolio made with Next.js.
 
-### **👨‍🍳 Executive Head Chef – Cassidy’s Hotel (2023 – Present)**
-- Led kitchen operations in a high-volume hotel  
-- Built systems for efficiency, quality control, scheduling  
-- Strengthened leadership, time management, budgeting, and communication  
-- Experience leading **teams of 20–50+ people**
-
----
-
-### **🥇 Chef (Commis → Head Chef) – Ireland & Moldova (2009 – 2023)**
-- 15 years of industry experience  
-- Worked in Michelin-level environments  
-- Managed high-stress operations and large commercial kitchens  
+### 🧪 **Home Lab Projects**
+- Proxmox virtualization  
+- Docker containers & stacks  
+- VPN setups & network routing  
+- Linux administration practice  
 
 ---
 
-# 🎓 Education
+# 🖼 Little Visual Touches
 
-### **Diploma in Networking & Systems Security (2025 – Present)**  
-*CCT College Dublin*
-
-### **Diploma in Event Management (2017 – 2018)**  
-*Ballsbridge College*
-
----
-
-# 📜 Certifications
-- **CompTIA Security+**  
-- **AZ-900 Microsoft Azure Fundamentals**  
-- **100 Days of Code – Front-End Bootcamp**  
-- **Cybersecurity Analyst Course**  
-- **Complete SQL Bootcamp**  
-
----
-
-# 🌍 Languages
-- **English** — Fluent  
-- **Russian** — Fluent  
-- **Romanian** — Basics  
-
----
-
-# 🖥 Projects
-
-### ⚡ **AC&DL Electric**  
-Modern electrician company website with strong UI, responsive layout, and clean components.
-
-### 🎧 **DJ Company Site**  
-Dynamic visuals, service listings, and booking workflow.
-
-### 💇 **Hairdresser Portfolio**  
-Minimalistic and fast Next.js portfolio with optimized images and clean UX.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,tailwind,nodejs,python,docker,linux,git,azure" />
+</p>
 
 ---
 
 # 📬 Contact
 
-📍 Ireland  
 📧 **miwaraileanu@gmail.com**  
 🌐 **www.iarahim.ie**  
+📍 Ireland  
 
 ---
 
+# ⭐ Thanks for visiting my profile!
