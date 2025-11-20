@@ -1,6 +1,6 @@
 <!-- HEADER IMAGE -->
 <p align="center">
-  <img src="/mnt/data/A_digital_illustration_represents_Mihail_Raileanu_.png" width="75%" style="border-radius: 12px;">
+  <img src="/mnt/data/A_digital_illustration_represents_Mihail_Raileanu_.png" width="100%" style="border-radius: 12px;">
 </p>
 
 <!-- MARTIAN MONO TITLE -->
