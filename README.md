@@ -24,43 +24,16 @@ and I’m constantly pushing myself to learn more every day.
 
 ---
 
-# 💻 Tech Stack
+# ## 🧰 Tech Stack
 
-### **Languages**
-- JavaScript  
-- TypeScript  
-- Python  
-- SQL  
-- HTML5 / CSS3  
+| Category | Skills |
+|---------|--------|
+| **Languages** | JavaScript · TypeScript · Python · SQL · HTML5/CSS3 |
+| **Frontend** | Next.js · React · Tailwind CSS · Responsive UI |
+| **Backend** | Node.js · Nest.js · Flask · REST APIs · SQL Basics |
+| **Cloud / DevOps** | Docker · Git · GitHub · Azure (AZ-900) · Linux · Proxmox |
+| **Networking / Security** | Wireshark · Cisco Packet Tracer · OSI/TCP-IP · Cybersecurity Basics |
 
-### **Frontend**
-- Next.js  
-- React  
-- Tailwind CSS  
-- Responsive UI  
-
-### **Backend**
-- Node.js
-- Nest.js 
-- Flask  
-- REST APIs  
-- SQL basics  
-
-### **Cloud / DevOps**
-- Docker
-- CI/CD
-- Git & GitHub  
-- Azure (AZ-900 Certified)  
-- Linux (Ubuntu / Kali)  
-- Proxmox VE  
-
-### **Networking / Security**
-- OSI & TCP/IP  
-- Wireshark  
-- Cisco Packet Tracer  
-- Cybersecurity fundamentals  
-
----
 
 # 🧩 Projects
 
