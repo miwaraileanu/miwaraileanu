@@ -5,7 +5,7 @@
 
 <!-- MARTIAN MONO TITLE -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Martian+Mono&duration=3500&pause=600&color=00000&center=true&vCenter=true&width=800&lines=Mihail+Raileanu;Developer+%7C+Networking+%26+Security" />
+  <img src="https://readme-typing-svg.demolab.com?font=Martian+Mono&duration=3500&pause=600&color=00000&center=true&vCenter=true&width=900&lines=Mihail+Raileanu;Developer+%7C+Networking+%26+Security" />
 </p>
 
 ---
