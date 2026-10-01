@@ -22,12 +22,6 @@ I hold **CompTIA CySA+** and **Security+**, and I'm completing a **Level 9 Postg
 
 My path into security went through engineering: I worked as a frontend developer on a remote team in London and now build full-stack apps, so I read systems from both sides, as the person who builds them and the one who defends them.
 
-I run a virtualised home SOC where I triage, investigate and write up simulated attacks, with detections mapped to **MITRE ATT&CK**.
-
-📍 Dublin · 🇪🇺 EU passport, full right to work in Ireland, no sponsorship needed
-🗣️ English · Russian · Romanian (fluent)
-🕐 Available for shift rotations
-
 ---
 
 ## 🛡️ What I Do
