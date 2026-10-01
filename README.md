@@ -52,14 +52,6 @@ A quick look at what I'm building and practising:
 
 ---
 
-## 💼 Experience
-
-- **Co-Founder & IT Security Consultant**, [RAIT](https://rait.ie) · 2026 – present
-- **Freelance Web Developer**, Dublin · 2024 – present
-- **Junior Frontend Developer**, HiveMind (remote, London) · 2022 – 2024
-- **Executive Head Chef**, Cassidy's Hotel, Dublin · 2009 – 2024
-
----
 
 ## 🎓 Certifications & Education
 
